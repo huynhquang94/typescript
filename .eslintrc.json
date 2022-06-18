@@ -1,0 +1,18 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2015": true
+  },
+  "extends": [
+    "eslint:recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "quotemark": [true, "single"],
+    "semicolon": [true, "always", "ignore-interfaces"],
+    "no-any": true,
+    "no-console": false,
+    "no-shadowed-variable": false
+  }
+}
