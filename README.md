@@ -1,4 +1,4 @@
-# Typescript PRACTICE
+# Typescript
 ## Overview
 - This document provides the assumption and requirement for practice.
 
